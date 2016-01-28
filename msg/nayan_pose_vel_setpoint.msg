@@ -1,0 +1,5 @@
+Header header
+geometry_msgs/Vector3 setpoint_pose
+geometry_msgs/Vector3 setpoint_vel
+float32 yaw
+float32 yaw_rate

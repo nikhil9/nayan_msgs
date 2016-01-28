@@ -1,0 +1,4 @@
+float32 value
+char[16] param_id
+---
+string response_string
